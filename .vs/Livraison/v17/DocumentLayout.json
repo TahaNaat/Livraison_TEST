@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A909C3DE-B5E4-4199-AF07-0F55ABC3B2DC}|LI.Data\\LI.Data.csproj|c:\\users\\tahan\\onedrive\\bureau\\test_taha\\solution1\\li.data\\licontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A909C3DE-B5E4-4199-AF07-0F55ABC3B2DC}|LI.Data\\LI.Data.csproj|solutionrelative:li.data\\licontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0AE21B-76B5-4412-ADAD-8E59A25C8751}|LI.UI.Console\\LI.UI.Console.csproj|c:\\users\\tahan\\onedrive\\bureau\\test_taha\\solution1\\li.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0AE21B-76B5-4412-ADAD-8E59A25C8751}|LI.UI.Console\\LI.UI.Console.csproj|solutionrelative:li.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|c:\\users\\tahan\\onedrive\\bureau\\test_taha\\solution1\\li.core.domain\\colis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|solutionrelative:li.core.domain\\colis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|c:\\users\\tahan\\onedrive\\bureau\\test_taha\\solution1\\li.core.domain\\livreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|solutionrelative:li.core.domain\\livreur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|c:\\users\\tahan\\onedrive\\bureau\\test_taha\\solution1\\li.core.domain\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|solutionrelative:li.core.domain\\vehicule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|c:\\users\\tahan\\onedrive\\bureau\\test_taha\\solution1\\li.core.domain\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|solutionrelative:li.core.domain\\voiture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|c:\\users\\tahan\\onedrive\\bureau\\test_taha\\solution1\\li.core.domain\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|solutionrelative:li.core.domain\\camion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|c:\\users\\tahan\\onedrive\\bureau\\test_taha\\solution1\\li.core.domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|solutionrelative:li.core.domain\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A909C3DE-B5E4-4199-AF07-0F55ABC3B2DC}|LI.Data\\LI.Data.csproj|c:\\users\\tahan\\onedrive\\bureau\\test_taha\\solution1\\li.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A909C3DE-B5E4-4199-AF07-0F55ABC3B2DC}|LI.Data\\LI.Data.csproj|solutionrelative:li.data\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|c:\\users\\tahan\\onedrive\\bureau\\test_taha\\solution1\\li.core.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CBCF53A-B2C4-445C-AFD4-C70028C5BADF}|LI.Core.Domain\\LI.Core.Domain.csproj|solutionrelative:li.core.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.UI.Console\\Program.cs",
+              "RelativeDocumentMoniker": "LI.UI.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.UI.Console\\Program.cs",
+              "RelativeToolTip": "LI.UI.Console\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T12:25:44.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LIContext.cs",
+              "DocumentMoniker": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Data\\LIContext.cs",
+              "RelativeDocumentMoniker": "LI.Data\\LIContext.cs",
+              "ToolTip": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Data\\LIContext.cs",
+              "RelativeToolTip": "LI.Data\\LIContext.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAA4wDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:52:41.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Voiture.cs",
+              "DocumentMoniker": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Voiture.cs",
+              "RelativeDocumentMoniker": "LI.Core.Domain\\Voiture.cs",
+              "ToolTip": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Voiture.cs",
+              "RelativeToolTip": "LI.Core.Domain\\Voiture.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:39:41.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Camion.cs",
+              "DocumentMoniker": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Camion.cs",
+              "RelativeDocumentMoniker": "LI.Core.Domain\\Camion.cs",
+              "ToolTip": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Camion.cs",
+              "RelativeToolTip": "LI.Core.Domain\\Camion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:39:27.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Vehicule.cs",
+              "DocumentMoniker": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Vehicule.cs",
+              "RelativeDocumentMoniker": "LI.Core.Domain\\Vehicule.cs",
+              "ToolTip": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Vehicule.cs",
+              "RelativeToolTip": "LI.Core.Domain\\Vehicule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:39:12.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Livreur.cs",
+              "DocumentMoniker": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Livreur.cs",
+              "RelativeDocumentMoniker": "LI.Core.Domain\\Livreur.cs",
+              "ToolTip": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Livreur.cs",
+              "RelativeToolTip": "LI.Core.Domain\\Livreur.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:38:24.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Colis.cs",
+              "DocumentMoniker": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Colis.cs",
+              "RelativeDocumentMoniker": "LI.Core.Domain\\Colis.cs",
+              "ToolTip": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Colis.cs",
+              "RelativeToolTip": "LI.Core.Domain\\Colis.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:39:59.478Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Client.cs",
+              "RelativeDocumentMoniker": "LI.Core.Domain\\Client.cs",
+              "ToolTip": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Client.cs",
+              "RelativeToolTip": "LI.Core.Domain\\Client.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:38:44.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Data\\Class1.cs",
+              "RelativeDocumentMoniker": "LI.Data\\Class1.cs",
+              "ToolTip": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Data\\Class1.cs",
+              "RelativeToolTip": "LI.Data\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:40:56.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "LI.Core.Domain\\Class1.cs",
+              "ToolTip": "C:\\Users\\tahan\\OneDrive\\Bureau\\TEST_Taha\\Solution1\\LI.Core.Domain\\Class1.cs",
+              "RelativeToolTip": "LI.Core.Domain\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T10:37:55.084Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
